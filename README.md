@@ -5,6 +5,8 @@ The map demonstrates:
 - MVP definition  
 - Activities and user tasks  
 - Acceptance criteria written in Gherkin  
-- Linked interactive Figma prototypes  
+- Linked interactive Figma prototypes
+
+---
 
 ### 👉 [View User Story Map](https://miro.com/app/board/uXjVJWxOVAo=/)
