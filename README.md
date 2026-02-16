@@ -7,4 +7,4 @@ The map demonstrates:
 - Acceptance criteria written in Gherkin  
 - Linked interactive Figma prototypes  
 
-👉 [View User Story Map](https://miro.com/app/board/uXjVJWxOVAo=/)
+### 👉 [View User Story Map](https://miro.com/app/board/uXjVJWxOVAo=/)
