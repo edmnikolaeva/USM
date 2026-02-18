@@ -15,4 +15,4 @@ The map demonstrates:
 
 ---
 
-Interested in detailed [Use Case examples](https://github.com/edmnikolaeva/use_case)?
+Explore detailed [Use Case examples](https://github.com/edmnikolaeva/use_case)
