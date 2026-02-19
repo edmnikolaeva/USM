@@ -1,9 +1,23 @@
 # User Story Maps (USM) – System Analysis Examples
-This repository presents a User Story Map developed for the [Smart Home Application](https://github.com/edmnikolaeva/stets_home)
+
+<table>
+<tr>
+<td>
+
+This repository presents a User Story Map developed as part of the work on MVP for the [Smart Home Application](https://github.com/edmnikolaeva/stets_home)
+
+</td>
+<td width="220">
+<img src="https://github.com/edmnikolaeva/USM/blob/main/usm_stets.png" 
+     alt="Visual Anchor — Main Screen Prototype" 
+     width="200"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### 👉 [View User Story Map](https://miro.com/app/board/uXjVJWxOVAo=/)
+### Main artifact 👉 [User Story Map](https://miro.com/app/board/uXjVJWxOVAo=/)
 
 ---
 
@@ -15,4 +29,4 @@ The map demonstrates:
 
 ---
 
-Explore detailed [Use Case examples](https://github.com/edmnikolaeva/use_case)
+🔗 Related Artifact 👉 [Use Cases](https://github.com/edmnikolaeva/use_case)
