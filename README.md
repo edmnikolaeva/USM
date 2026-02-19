@@ -1,4 +1,4 @@
-# User Story Maps (USM) – System Analysis Examples
+# User Story Maps (USM) 
 
 <table>
 <tr>
