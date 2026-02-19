@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-This repository presents a User Story Map developed as part of the work on MVP for the [Smart Home Application](https://github.com/edmnikolaeva/stets_home)
+This repository presents a User Story Map developed as part of the MVP work for the [Smart Home Application](https://github.com/edmnikolaeva/stets_home)
 
 </td>
 <td width="220">
