@@ -29,5 +29,6 @@ The map demonstrates:
 
 ---
 
-### 🔗 Related Artifact
+### 🔎 Related Work
+
 - 👉 [Use Cases](https://github.com/edmnikolaeva/use_case)
